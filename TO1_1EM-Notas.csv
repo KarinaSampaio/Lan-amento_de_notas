@@ -1,0 +1,345 @@
+ Cód. matrícula, Nome," Componente
+ Curricular"," Nota 
+ Peso/10"," Desempenho 
+ %"
+,Alice Machado De Souza Pedra,Arte,8,80
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,"2,5",25
+,,Geografia,"7,5",75
+,,História,"7,5",75
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"4,6",46
+,,Matemática,"6,2",62
+,,Química,"7,5",75
+,,Sociologia,6,60
+,Antonia Da Silva Bittencourt,Arte,8,80
+,,Biologia,5,50
+,,Filosofia,10,100
+,,Física,"6,2",62
+,,Geografia,"6,2",62
+,,História,"6,2",62
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,3,30
+,,Matemática,"8,7",87
+,,Química,"7,5",75
+,,Sociologia,0,0
+,Beatriz Bastos Ramos,Arte,8,80
+,,Biologia,"6,2",62
+,,Filosofia,6,60
+,,Física,"1,2",12
+,,Geografia,0,0
+,,História,"3,7",37
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,3,30
+,,Matemática,0,0
+,,Química,"2,5",25
+,,Sociologia,2,20
+,Bernardo Caúla Rolim,Arte,6,60
+,,Biologia,5,50
+,,Filosofia,8,80
+,,Física,5,50
+,,Geografia,"6,2",62
+,,História,5,50
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"6,1",61
+,,Matemática,"8,7",87
+,,Química,"6,2",62
+,,Sociologia,4,40
+,Carolina Fernandez De Seixas Wanderley,Arte,8,80
+,,Biologia,"7,5",75
+,,Filosofia,10,100
+,,Física,"1,2",12
+,,Geografia,"6,2",62
+,,História,5,50
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"1,5",15
+,,Matemática,5,50
+,,Química,"3,7",37
+,,Sociologia,6,60
+,Emanuelle Marmo Kiffer Da Cunha,Arte,8,80
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,"1,2",12
+,,Geografia,"7,5",75
+,,História,"6,2",62
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"7,6",76
+,,Matemática,"6,2",62
+,,Química,"8,7",87
+,,Sociologia,6,60
+,Gabriel Santarém Pereira,Arte,8,80
+,,Biologia,10,100
+,,Filosofia,10,100
+,,Física,"7,5",75
+,,Geografia,"6,2",62
+,,História,10,100
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"8,4",84
+,,Matemática,"8,7",87
+,,Química,"8,7",87
+,,Sociologia,4,40
+,Gabriela De Carvalho Costa Ferreira,Arte,8,80
+,,Biologia,"7,5",75
+,,Filosofia,10,100
+,,Física,"6,2",62
+,,Geografia,"3,7",37
+,,História,5,50
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"6,1",61
+,,Matemática,"8,7",87
+,,Química,"3,7",37
+,,Sociologia,6,60
+,Gabriela Gaiotte De Oliveira,Arte,8,80
+,,Biologia,"8,7",87
+,,Filosofia,8,80
+,,Física,"3,7",37
+,,Geografia,5,50
+,,História,"6,2",62
+,,Língua Inglesa,10,100
+,,Língua Portuguesa,"4,6",46
+,,Matemática,"3,7",37
+,,Química,"2,5",25
+,,Sociologia,6,60
+,Henrique Candido Pegado,Arte,6,60
+,,Biologia,5,50
+,,Filosofia,6,60
+,,Física,"2,5",25
+,,Geografia,"3,7",37
+,,História,"6,2",62
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,3,30
+,,Matemática,5,50
+,,Química,"3,7",37
+,,Sociologia,6,60
+,Henrique Pereira Oliveira Vianna,Arte,6,60
+,,Biologia,"6,2",62
+,,Filosofia,6,60
+,,Física,"1,2",12
+,,Geografia,"2,5",25
+,,História,5,50
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"0,7",7
+,,Matemática,0,0
+,,Química,"1,2",12
+,,Sociologia,6,60
+,Isabel Rodriguez Couto,Arte,8,80
+,,Biologia,5,50
+,,Filosofia,4,40
+,,Física,"1,2",12
+,,Geografia,"3,7",37
+,,História,0,0
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"2,3",23
+,,Matemática,"3,7",37
+,,Química,"6,2",62
+,,Sociologia,2,20
+,Isabella Capatão De Simone Da Silva,Arte,8,80
+,,Biologia,"3,7",37
+,,Filosofia,8,80
+,,Física,"1,2",12
+,,Geografia,"2,5",25
+,,História,5,50
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"7,5",75
+,,Química,"8,7",87
+,,Sociologia,6,60
+,Jose Vitor Fonseca Elias Ranzeiro,Arte,8,80
+,,Biologia,5,50
+,,Filosofia,8,80
+,,Física,5,50
+,,Geografia,"6,2",62
+,,História,"6,2",62
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"1,5",15
+,,Matemática,"8,7",87
+,,Química,"8,7",87
+,,Sociologia,2,20
+,Júlia Goulart Pereira,Arte,6,60
+,,Biologia,"3,7",37
+,,Filosofia,8,80
+,,Física,"1,2",12
+,,Geografia,"6,2",62
+,,História,5,50
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"2,5",25
+,,Química,"2,5",25
+,,Sociologia,6,60
+,Juliana Considera Ferreira,Arte,6,60
+,,Biologia,"8,7",87
+,,Filosofia,8,80
+,,Física,"6,2",62
+,,Geografia,"6,2",62
+,,História,"3,7",37
+,,Língua Inglesa,10,100
+,,Língua Portuguesa,"6,1",61
+,,Matemática,"7,5",75
+,,Química,"8,7",87
+,,Sociologia,4,40
+,Lara Lopes De Araujo Alves De Oliveira,Arte,8,80
+,,Biologia,"3,7",37
+,,Filosofia,10,100
+,,Física,"3,7",37
+,,Geografia,"3,7",37
+,,História,"6,2",62
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"4,6",46
+,,Matemática,"6,2",62
+,,Química,5,50
+,,Sociologia,8,80
+,Leonardo Franco Nogueira Da Silva,Arte,8,80
+,,Biologia,"7,5",75
+,,Filosofia,8,80
+,,Física,"7,5",75
+,,Geografia,"7,5",75
+,,História,"7,5",75
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"6,9",69
+,,Matemática,5,50
+,,Química,"8,7",87
+,,Sociologia,4,40
+,Luísa De Abreu Watzl,Arte,6,60
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,"3,7",37
+,,Geografia,5,50
+,,História,"6,2",62
+,,Língua Inglesa,2,20
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"3,7",37
+,,Química,10,100
+,,Sociologia,6,60
+,Luiz Otávio Oliveira De Souza,Arte,8,80
+,,Biologia,"6,2",62
+,,Filosofia,8,80
+,,Física,"3,7",37
+,,Geografia,"2,5",25
+,,História,5,50
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"7,5",75
+,,Química,"6,2",62
+,,Sociologia,8,80
+,Maite França Amaral Carneiro,Arte,6,60
+,,Biologia,"6,2",62
+,,Filosofia,10,100
+,,Física,"2,5",25
+,,Geografia,"3,7",37
+,,História,"7,5",75
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,"4,6",46
+,,Matemática,"3,7",37
+,,Química,"7,5",75
+,,Sociologia,8,80
+,Manuella Figueiredo Blackman,Arte,8,80
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,"8,7",87
+,,Geografia,"7,5",75
+,,História,"7,5",75
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"6,1",61
+,,Matemática,"8,7",87
+,,Química,10,100
+,,Sociologia,6,60
+,Maria Eduarda Goncalves Menezes,Arte,6,60
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,5,50
+,,Geografia,5,50
+,,História,5,50
+,,Língua Inglesa,2,20
+,,Língua Portuguesa,"2,3",23
+,,Matemática,"6,2",62
+,,Química,"8,7",87
+,,Sociologia,6,60
+,Maria Fernanda Sá Eliziário,Arte,6,60
+,,Biologia,5,50
+,,Filosofia,10,100
+,,Física,"2,5",25
+,,Geografia,"6,2",62
+,,História,"8,7",87
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"6,1",61
+,,Matemática,"6,2",62
+,,Química,"2,5",25
+,,Sociologia,6,60
+,Maria Luiza Guimarães De Faria,Arte,6,60
+,,Biologia,"8,7",87
+,,Filosofia,10,100
+,,Física,"2,5",25
+,,Geografia,"7,5",75
+,,História,"3,7",37
+,,Língua Inglesa,2,20
+,,Língua Portuguesa,"4,6",46
+,,Matemática,"7,5",75
+,,Química,"6,2",62
+,,Sociologia,10,100
+,Miguel Fernandes Gonçalves,Arte,8,80
+,,Biologia,"7,5",75
+,,Filosofia,10,100
+,,Física,"7,5",75
+,,Geografia,"6,2",62
+,,História,5,50
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"5,3",53
+,,Matemática,"8,7",87
+,,Química,10,100
+,,Sociologia,8,80
+,Pedro Cardoso Lage,Arte,6,60
+,,Biologia,"6,2",62
+,,Filosofia,8,80
+,,Física,"6,2",62
+,,Geografia,"3,7",37
+,,História,"6,2",62
+,,Língua Inglesa,6,60
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"7,5",75
+,,Química,"8,7",87
+,,Sociologia,6,60
+,Rebeca Barros Heringer,Arte,6,60
+,,Biologia,5,50
+,,Filosofia,6,60
+,,Física,"1,2",12
+,,Geografia,"3,7",37
+,,História,"3,7",37
+,,Língua Inglesa,4,40
+,,Língua Portuguesa,3,30
+,,Matemática,5,50
+,,Química,"6,2",62
+,,Sociologia,4,40
+,Sara Raquel Muniz Bento,Arte,8,80
+,,Biologia,5,50
+,,Filosofia,4,40
+,,Física,"1,2",12
+,,Geografia,"2,5",25
+,,História,"3,7",37
+,,Língua Inglesa,2,20
+,,Língua Portuguesa,"3,8",38
+,,Matemática,"3,7",37
+,,Química,"2,5",25
+,,Sociologia,2,20
+,Sofia De Gouvêa Cardozo,Arte,8,80
+,,Biologia,10,100
+,,Filosofia,10,100
+,,Física,"7,5",75
+,,Geografia,5,50
+,,História,5,50
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"6,9",69
+,,Matemática,"6,2",62
+,,Química,10,100
+,,Sociologia,4,40
+,Thiago Maciel Lima Cardoso,Arte,8,80
+,,Biologia,"6,2",62
+,,Filosofia,10,100
+,,Física,"2,5",25
+,,Geografia,"6,2",62
+,,História,"8,7",87
+,,Língua Inglesa,8,80
+,,Língua Portuguesa,"6,9",69
+,,Matemática,"3,7",37
+,,Química,10,100
+,,Sociologia,6,60
